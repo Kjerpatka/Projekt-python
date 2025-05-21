@@ -1,0 +1,1 @@
+"""Repository package for student management system.""" 
